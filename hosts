@@ -1,0 +1,6 @@
+...
+[ops445]
+vmlab   ansible_host=myvmlab.senecapolytechnic.ca ansible_port=7494 ansible_user=student
+myvm    ansible_host=myvmlab.senecapolytechnic.ca ansible_port=7494
+
+...
